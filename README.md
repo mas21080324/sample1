@@ -1,4 +1,4 @@
 # yasuo
-![](anh yasuo.jpg)
+![](./anh yasuo.jpg)
 
 21080324
